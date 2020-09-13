@@ -1,6 +1,7 @@
 ## Recommended System in Laravel
 
 git clone git@github.com:nguyenhuydat98/demo_recommended_system.git
+
 composer install
 
 New file > .env
